@@ -1,0 +1,5 @@
+{
+  "description": "Pyramidal Edge-Maps and Attention Based Guided Thermal Super-Resolution.",
+  "dataset_name": "cats_test",
+  "do_flipping": 0
+}

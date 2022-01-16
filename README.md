@@ -18,6 +18,10 @@ To replicate our results, extract multi-level edge-maps from an RGB using the co
 
 A sample `.csv` file can be found in the `input` folder for the images stored in the `datasets` folder.
 
+### Checkpoint
+
+Model trained on the cats model for 8x super-resolution can be downloaded [here](https://drive.google.com/file/d/1-MbXwlHe3nVdMzox8YdBgnu9fy_qOKOh/view?usp=sharing)
+ 
 ### Code Usage
 
 Sample testing scripts:

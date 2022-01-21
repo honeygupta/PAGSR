@@ -1,4 +1,4 @@
-# Pyramidal Edge-Maps and Attention Based Guided Thermal Super-Resolution
+# [Pyramidal Edge-Maps and Attention Based Guided Thermal Super-Resolution](https://arxiv.org/abs/2003.06216)
 #### Authors: Honey Gupta and Kaushik Mitra, IIT Madras 
 For queries, contact: `hn.gpt1@gmail.com`
 
